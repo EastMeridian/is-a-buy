@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "is-a-buy",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "scraper": "yarn workspace scraper start",
+    "client": "yarn workspace client start"
+  }
+}

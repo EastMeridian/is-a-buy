@@ -1,0 +1,691 @@
+{
+  "AAPL": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "29/10/2021",
+      "targets": {
+        "low": 112.59,
+        "high": 157.26
+      },
+      "source": "https://fr.finance.yahoo.com/quote/AAPL?guccounter=1"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/4/AAPL-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 157.26,
+        "low": 112.59
+      },
+      "source": "https://www.zacks.com/stock/quote/AAPL"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:29:57.984Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-AAPL/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "source": "https://www.fool.com/quote/nasdaq/aapl/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateInfo": "Under 3 month",
+      "targets": {
+        "high": 198,
+        "average": 170,
+        "low": 132
+      },
+      "source": "https://www.tipranks.com/stocks/aapl/forecast"
+    }
+  ],
+  "AMC": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "SELL",
+      "lastUpdateInfo": "04/11/2021",
+      "targets": {
+        "low": 1.91,
+        "high": 72.62
+      },
+      "source": "https://fr.finance.yahoo.com/quote/AMC"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "SELL",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/5592/AMC-N"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 72.62,
+        "low": 1.91
+      },
+      "source": "https://www.zacks.com/stock/quote/AMC"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:30:00.749Z",
+      "source": "https://fr.tradingview.com/symbols/NYSE-AMC/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "SELL",
+      "source": "https://www.fool.com/quote/nyse/amc/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "done",
+      "lastUpdateInfo": "Under 3 month",
+      "targets": {
+        "high": 16,
+        "average": 8.17,
+        "low": 1
+      },
+      "source": "https://www.tipranks.com/stocks/amc/forecast"
+    }
+  ],
+  "AMZN": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "29/10/2021",
+      "targets": {
+        "low": 2881,
+        "high": 3773.08
+      },
+      "source": "https://fr.finance.yahoo.com/quote/AMZN"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/67/AMZN-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "STRONG_SELL",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 3,
+        "low": 2
+      },
+      "source": "https://www.zacks.com/stock/quote/AMZN"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-17T13:30:03.895Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-AMZN/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "BUY",
+      "source": "https://www.fool.com/quote/nasdaq/amzn/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    }
+  ],
+  "DIS": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "18/10/2021",
+      "targets": {
+        "low": 140.86,
+        "high": 203.02
+      },
+      "source": "https://fr.finance.yahoo.com/quote/DIS"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:02:00.000Z",
+      "source": "https://stockchase.com/company/view/369/DIS-N"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateDate": "2021-11-16T15:02:00.000Z",
+      "targets": {
+        "high": 203.02,
+        "low": 140.86
+      },
+      "source": "https://www.zacks.com/stock/quote/DIS"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "SELL",
+      "lastUpdateDate": "2021-11-17T13:30:06.652Z",
+      "source": "https://fr.tradingview.com/symbols/NYSE-DIS/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "source": "https://www.fool.com/quote/nyse/dis/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    }
+  ],
+  "FB": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "26/10/2021",
+      "targets": {
+        "low": 244.61,
+        "high": 384.33
+      },
+      "source": "https://fr.finance.yahoo.com/quote/FB"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/4277/FB-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "SELL",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 384.33,
+        "low": 244.61
+      },
+      "source": "https://www.zacks.com/stock/quote/FB"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:30:09.910Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-FB/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "BUY",
+      "source": "https://www.fool.com/quote/nasdaq/fb/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateInfo": "Under 3 month",
+      "targets": {
+        "high": 466,
+        "average": 405.59,
+        "low": 300
+      },
+      "source": "https://www.tipranks.com/stocks/fb/forecast"
+    }
+  ],
+  "FDX": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "06/10/2021",
+      "targets": {
+        "low": 216.34,
+        "high": 319.9
+      },
+      "source": "https://fr.finance.yahoo.com/quote/FDX"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/471/FDX-N"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "SELL",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 319.9,
+        "low": 216.34
+      },
+      "source": "https://www.zacks.com/stock/quote/FDX"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:30:13.130Z",
+      "source": "https://fr.tradingview.com/symbols/NYSE-FDX/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "source": "https://www.fool.com/quote/nyse/fdx/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateInfo": "Under 3 month",
+      "targets": {
+        "high": 369,
+        "average": 304.65,
+        "low": 250
+      },
+      "source": "https://www.tipranks.com/stocks/fdx/forecast"
+    }
+  ],
+  "GOOGL": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "02/11/2021",
+      "targets": {
+        "low": 1694,
+        "high": 3012.3
+      },
+      "source": "https://fr.finance.yahoo.com/quote/GOOGL"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/1833/GOOG-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 3,
+        "low": 1
+      },
+      "source": "https://www.zacks.com/stock/quote/GOOGL"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:30:16.230Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-GOOGL/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "BUY",
+      "source": "https://www.fool.com/quote/nasdaq/googl/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    }
+  ],
+  "LNVGY": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "source": "https://fr.finance.yahoo.com/quote/LNVGY"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-16T14:59:00.000Z",
+      "targets": {
+        "high": 35.83,
+        "low": 13.93
+      },
+      "source": "https://www.zacks.com/stock/quote/LNVGY"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "source": "https://www.fool.com/quote/otc/lnvgy/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    }
+  ],
+  "MSFT": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "02/11/2021",
+      "targets": {
+        "low": 208.16,
+        "high": 340.67
+      },
+      "source": "https://fr.finance.yahoo.com/quote/MSFT"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/820/MSFT-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 340.67,
+        "low": 208.16
+      },
+      "source": "https://www.zacks.com/stock/quote/MSFT"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:30:52.277Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-MSFT/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "BUY",
+      "source": "https://www.fool.com/quote/nasdaq/msft/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateInfo": "Under 3 month",
+      "targets": {
+        "high": 407,
+        "average": 367.09,
+        "low": 320
+      },
+      "source": "https://www.tipranks.com/stocks/msft/forecast"
+    }
+  ],
+  "NFLX": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "20/10/2021",
+      "targets": {
+        "low": 475.84,
+        "high": 690.97
+      },
+      "source": "https://fr.finance.yahoo.com/quote/NFLX"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/2191/NFLX-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 690.97,
+        "low": 475.84
+      },
+      "source": "https://www.zacks.com/stock/quote/NFLX"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:30:55.026Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-NFLX/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "BUY",
+      "source": "https://www.fool.com/quote/nasdaq/nflx/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "done",
+      "lastUpdateInfo": "Under 3 month",
+      "targets": {
+        "high": 800,
+        "average": 680.88,
+        "low": 342
+      },
+      "source": "https://www.tipranks.com/stocks/nflx/forecast"
+    }
+  ],
+  "NVDA": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateInfo": "10/11/2021",
+      "targets": {
+        "low": 115.67,
+        "high": 323.1
+      },
+      "source": "https://fr.finance.yahoo.com/quote/NVDA"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/894/NVDA-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 323.1,
+        "low": 115.67
+      },
+      "source": "https://www.zacks.com/stock/quote/NVDA"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:30:57.646Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-NVDA/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "STRONG_BUY",
+      "source": "https://www.fool.com/quote/nasdaq/nvda/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    }
+  ],
+  "OCGN": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateInfo": "11/06/2021",
+      "targets": {
+        "low": 0.28,
+        "high": 18.77
+      },
+      "source": "https://fr.finance.yahoo.com/quote/OCGN"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "error",
+      "message": {}
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 18.77,
+        "low": 0.29
+      },
+      "source": "https://www.zacks.com/stock/quote/OCGN"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "SELL",
+      "lastUpdateDate": "2021-11-17T13:31:00.508Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-OCGN/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "BUY",
+      "source": "https://www.fool.com/quote/nasdaq/ocgn/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "error",
+      "message": {
+        "name": "TimeoutError"
+      }
+    }
+  ],
+  "TSLA": [
+    {
+      "agentName": "Yahoo",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateInfo": "08/11/2021",
+      "targets": {
+        "low": 443.5,
+        "high": 1243.49
+      },
+      "source": "https://fr.finance.yahoo.com/quote/TSLA"
+    },
+    {
+      "agentName": "Stockchase",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-16T21:00:00.000Z",
+      "source": "https://stockchase.com/company/view/4017/TSLA-Q"
+    },
+    {
+      "agentName": "Zacks",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-16T15:00:00.000Z",
+      "targets": {
+        "high": 1,
+        "low": 433.01
+      },
+      "source": "https://www.zacks.com/stock/quote/TSLA"
+    },
+    {
+      "agentName": "TradingView",
+      "status": "done",
+      "signal": "BUY",
+      "lastUpdateDate": "2021-11-17T13:31:02.998Z",
+      "source": "https://fr.tradingview.com/symbols/NASDAQ-TSLA/technicals/"
+    },
+    {
+      "agentName": "TheMotleyFool",
+      "status": "done",
+      "signal": "BUY",
+      "source": "https://www.fool.com/quote/nasdaq/tsla/"
+    },
+    {
+      "agentName": "TipRanks",
+      "status": "done",
+      "signal": "HOLD",
+      "lastUpdateInfo": "Under 3 month",
+      "targets": {
+        "high": 1,
+        "average": 873.1,
+        "low": 215
+      },
+      "source": "https://www.tipranks.com/stocks/tsla/forecast"
+    }
+  ]
+}
